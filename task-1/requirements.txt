@@ -1,0 +1,13 @@
+pandas
+pdfplumber
+scikit-learn
+python-dotenv
+transformers
+torch
+sentence-transformers
+numpy
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+datetime
